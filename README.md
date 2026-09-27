@@ -1,19 +1,32 @@
 <p align="center">
-  <img src="./assets/github-banner.png?" alt="Cochise Cabau - Technical Game Designer" width="100%" />
+  <img
+    src="./assets/github-banner.png"
+    alt="Cochise Cabau — Technical Game Designer"
+    width="100%"
+  />
 </p>
-<div align="center">
 
-### Technical Game Designer · Computer Scientist · Game Developer
+<p align="center">
+  <a href="https://cochise.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-cochise.dev-126BFF?style=for-the-badge&labelColor=081329" />
+  </a>
+  <a href="https://www.linkedin.com/in/cochise-cabau/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Cochise%20Cabau-7B42E8?style=for-the-badge&labelColor=081329&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://cochisedev.itch.io/">
+    <img src="https://img.shields.io/badge/ITCH.IO-PLAY%20MY%20GAMES-D824E5?style=for-the-badge&labelColor=081329&logo=itchdotio&logoColor=white" />
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-cochise.dev-7C3AED?style=for-the-badge)](https://cochise.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cochise%20Cabau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cochise-cabau/)
-[![itch.io](https://img.shields.io/badge/itch.io-cochisedev-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://cochisedev.itch.io/)
+<br>
 
-</div>
-
----
-
-## About Me
+<p align="center">
+  <img
+    src="./assets/section-about.png"
+    alt="About Me"
+    width="100%"
+  />
+</p>
 
 I'm a **Technical Game Designer** and Computer Science & Video Game Development double-degree student based in Madrid, focused on the intersection between **game design and programming**.
 
@@ -33,21 +46,33 @@ My experience includes:
 
 I mainly work with **Unity and Unreal Engine**, with a strong programming foundation in **C++, C#, Python and Java**.
 
----
+<br>
 
-## Current Focus
+<p align="center">
+  <img
+    src="./assets/section-focus.png"
+    alt="Current Focus"
+    width="100%"
+  />
+</p>
 
 🎮 **Technical Game Design**  
 🕹️ Gameplay Programming  
 🧩 Systems Design  
 🗺️ Technical Level Design  
-🛡️ Anti-cheat & game security
+🛡️ Anti-cheat & Game Security
 
 I'm especially interested in roles where I can bridge **design and implementation**.
 
----
+<br>
 
-## Selected Highlights
+<p align="center">
+  <img
+    src="./assets/section-highlights.png"
+    alt="Selected Highlights"
+    width="100%"
+  />
+</p>
 
 - 🥇 **1st Place — Band Fusion**, University Game Jam 2025
 - 🥈 **2nd Place — Nature Appliances**, University Game Jam 2024
@@ -56,46 +81,80 @@ I'm especially interested in roles where I can bridge **design and implementatio
 - 🎮 **Band Fusion showcased at Japan Weekend 2026**
 - 🏁 Fastest finisher of the **Hackr0cks 3-day CTF 2026**
 
----
+<br>
 
-## Tech Stack
+<p align="center">
+  <img
+    src="./assets/section-tech.png"
+    alt="Tech Stack"
+    width="100%"
+  />
+</p>
 
 ### Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+
+![Unity](https://img.shields.io/badge/Unity-081329?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-081329?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ### Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C++-126BFF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-4D5BFF?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7B42E8?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-D824E5?style=for-the-badge)
 
----
+### Workflow
 
-## About My Repositories
+![Git](https://img.shields.io/badge/Git-081329?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-081329?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+<p align="center">
+  <img
+    src="./assets/section-repos.png"
+    alt="About My Repositories"
+    width="100%"
+  />
+</p>
 
 > **Most of my university coursework and academic projects are private at the request of the university.**
 
-Because of this, the number of public repositories on this profile does **not represent the full scope of my development experience**.
+As a result, the number of public repositories here does **not represent the full scope of my development experience**.
 
-You can find more of my work, playable projects and case studies on:
+For playable projects, case studies and a broader look at my work:
 
-### → [cochise.dev](https://cochise.dev)
+<p align="center">
+  <a href="https://cochise.dev">
+    <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-cochise.dev-126BFF?style=for-the-badge&labelColor=081329" />
+  </a>
+  <a href="https://cochisedev.itch.io/">
+    <img src="https://img.shields.io/badge/PLAY_MY_GAMES-itch.io-D824E5?style=for-the-badge&labelColor=081329" />
+  </a>
+</p>
 
-and
+<br>
 
-### → [cochisedev.itch.io](https://cochisedev.itch.io/)
+<p align="center">
+  <img
+    src="./assets/section-connect.png"
+    alt="Let's Connect"
+    width="100%"
+  />
+</p>
 
----
+<p align="center">
+  <a href="https://cochise.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-cochise.dev-126BFF?style=for-the-badge&labelColor=081329" />
+  </a>
+  <a href="https://www.linkedin.com/in/cochise-cabau/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Cochise%20Cabau-7B42E8?style=for-the-badge&labelColor=081329&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://cochisedev.itch.io/">
+    <img src="https://img.shields.io/badge/ITCH.IO-PLAY%20MY%20GAMES-D824E5?style=for-the-badge&labelColor=081329&logo=itchdotio&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-
-### Let's build something worth playing.
-
-**[Portfolio](https://cochise.dev) · [LinkedIn](https://www.linkedin.com/in/cochise-cabau/) · [itch.io](https://cochisedev.itch.io/)**
-
-</div>
+<p align="center">
+  <b>Designing systems. Building them. Iterating until they feel right.</b>
+</p>
