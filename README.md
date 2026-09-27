@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Cochise Cabau - Technical Game Designer" width="100%" />
+  <img src="./assets/github-banner.png?" alt="Cochise Cabau - Technical Game Designer" width="100%" />
 </p>
 <div align="center">
 
