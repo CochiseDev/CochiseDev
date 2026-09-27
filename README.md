@@ -17,12 +17,16 @@
     />
   </a>
 
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/cochise-cabau/">
     <img
       src="https://img.shields.io/badge/LINKEDIN-Cochise%20Cabau-7B42E8?style=for-the-badge&labelColor=081329&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
+
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://cochisedev.itch.io/">
     <img
@@ -32,6 +36,8 @@
   </a>
 
 </div>
+
+---
 
 <div align="left">
   <img
@@ -59,6 +65,8 @@ My experience includes:
 
 I mainly work with **Unity and Unreal Engine**, with a strong programming foundation in **C++, C#, Python and Java**.
 
+---
+
 <div align="left">
   <img
     src="./assets/section-focus.png"
@@ -75,6 +83,8 @@ I mainly work with **Unity and Unreal Engine**, with a strong programming founda
 
 I'm especially interested in roles where I can bridge **design and implementation**.
 
+---
+
 <div align="left">
   <img
     src="./assets/section-highlights.png"
@@ -89,6 +99,8 @@ I'm especially interested in roles where I can bridge **design and implementatio
 - 🎸 **Band Fusion showcased at Río Babel Music Festival 2025**
 - 🎮 **Band Fusion showcased at Japan Weekend 2026**
 - 🏁 Fastest finisher of the **Hackr0cks 3-day CTF 2026**
+
+---
 
 <div align="left">
   <img
@@ -115,6 +127,8 @@ I'm especially interested in roles where I can bridge **design and implementatio
 ![Git](https://img.shields.io/badge/Git-081329?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-081329?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 <div align="left">
   <img
     src="./assets/section-repos.png"
@@ -138,6 +152,8 @@ For playable projects, case studies and a broader look at my work:
     />
   </a>
 
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://cochisedev.itch.io/">
     <img
       src="https://img.shields.io/badge/PLAY_MY_GAMES-itch.io-D824E5?style=for-the-badge&labelColor=081329"
@@ -146,6 +162,8 @@ For playable projects, case studies and a broader look at my work:
   </a>
 
 </div>
+
+---
 
 <div align="left">
   <img
@@ -164,12 +182,16 @@ For playable projects, case studies and a broader look at my work:
     />
   </a>
 
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/cochise-cabau/">
     <img
       src="https://img.shields.io/badge/LINKEDIN-Cochise%20Cabau-7B42E8?style=for-the-badge&labelColor=081329&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
+
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://cochisedev.itch.io/">
     <img
