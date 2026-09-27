@@ -24,7 +24,7 @@
   <img
     src="./assets/section-about.png"
     alt="About Me"
-    width="100%"
+    width="75%"
   />
 </p>
 
@@ -52,7 +52,7 @@ I mainly work with **Unity and Unreal Engine**, with a strong programming founda
   <img
     src="./assets/section-focus.png"
     alt="Current Focus"
-    width="100%"
+    width="75%"
   />
 </p>
 
@@ -70,7 +70,7 @@ I'm especially interested in roles where I can bridge **design and implementatio
   <img
     src="./assets/section-highlights.png"
     alt="Selected Highlights"
-    width="100%"
+    width="75%"
   />
 </p>
 
@@ -87,7 +87,7 @@ I'm especially interested in roles where I can bridge **design and implementatio
   <img
     src="./assets/section-tech.png"
     alt="Tech Stack"
-    width="100%"
+    width="75%"
   />
 </p>
 
@@ -114,7 +114,7 @@ I'm especially interested in roles where I can bridge **design and implementatio
   <img
     src="./assets/section-repos.png"
     alt="About My Repositories"
-    width="100%"
+    width="75%"
   />
 </p>
 
@@ -139,7 +139,7 @@ For playable projects, case studies and a broader look at my work:
   <img
     src="./assets/section-connect.png"
     alt="Let's Connect"
-    width="100%"
+    width="75%"
   />
 </p>
 
