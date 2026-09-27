@@ -1,41 +1,16 @@
 <div align="center">
-
   <img
     src="./assets/github-banner.png"
     alt="Cochise Cabau — Technical Game Designer"
     width="100%"
   />
-
 </div>
 
-<div align="center">
-
-  <a href="https://cochise.dev">
-    <img
-      src="https://img.shields.io/badge/PORTFOLIO-cochise.dev-126BFF?style=for-the-badge&labelColor=081329"
-      alt="Portfolio"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/cochise-cabau/">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-Cochise%20Cabau-7B42E8?style=for-the-badge&labelColor=081329&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://cochisedev.itch.io/">
-    <img
-      src="https://img.shields.io/badge/ITCH.IO-PLAY%20MY%20GAMES-D824E5?style=for-the-badge&labelColor=081329&logo=itchdotio&logoColor=white"
-      alt="itch.io"
-    />
-  </a>
-
-</div>
+<p align="center">
+  <a href="https://cochise.dev"><img src="https://img.shields.io/badge/PORTFOLIO-cochise.dev-126BFF?style=for-the-badge&labelColor=081329" alt="Portfolio"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/cochise-cabau/"><img src="https://img.shields.io/badge/LINKEDIN-Cochise%20Cabau-7B42E8?style=for-the-badge&labelColor=081329&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://cochisedev.itch.io/"><img src="https://img.shields.io/badge/ITCH.IO-PLAY%20MY%20GAMES-D824E5?style=for-the-badge&labelColor=081329&logo=itchdotio&logoColor=white" alt="itch.io"></a>
+</p>
 
 ---
 
@@ -143,25 +118,10 @@ As a result, the number of public repositories here does **not represent the ful
 
 For playable projects, case studies and a broader look at my work:
 
-<div align="center">
-
-  <a href="https://cochise.dev">
-    <img
-      src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-cochise.dev-126BFF?style=for-the-badge&labelColor=081329"
-      alt="View my portfolio"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://cochisedev.itch.io/">
-    <img
-      src="https://img.shields.io/badge/PLAY_MY_GAMES-itch.io-D824E5?style=for-the-badge&labelColor=081329"
-      alt="Play my games"
-    />
-  </a>
-
-</div>
+<p align="center">
+  <a href="https://cochise.dev"><img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-cochise.dev-126BFF?style=for-the-badge&labelColor=081329" alt="View my portfolio"></a>&nbsp;&nbsp;
+  <a href="https://cochisedev.itch.io/"><img src="https://img.shields.io/badge/PLAY_MY_GAMES-itch.io-D824E5?style=for-the-badge&labelColor=081329" alt="Play my games"></a>
+</p>
 
 ---
 
@@ -173,34 +133,11 @@ For playable projects, case studies and a broader look at my work:
   />
 </div>
 
-<div align="center">
-
-  <a href="https://cochise.dev">
-    <img
-      src="https://img.shields.io/badge/PORTFOLIO-cochise.dev-126BFF?style=for-the-badge&labelColor=081329"
-      alt="Portfolio"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/cochise-cabau/">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-Cochise%20Cabau-7B42E8?style=for-the-badge&labelColor=081329&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://cochisedev.itch.io/">
-    <img
-      src="https://img.shields.io/badge/ITCH.IO-PLAY%20MY%20GAMES-D824E5?style=for-the-badge&labelColor=081329&logo=itchdotio&logoColor=white"
-      alt="itch.io"
-    />
-  </a>
-
-</div>
+<p align="center">
+  <a href="https://cochise.dev"><img src="https://img.shields.io/badge/PORTFOLIO-cochise.dev-126BFF?style=for-the-badge&labelColor=081329" alt="Portfolio"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/cochise-cabau/"><img src="https://img.shields.io/badge/LINKEDIN-Cochise%20Cabau-7B42E8?style=for-the-badge&labelColor=081329&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://cochisedev.itch.io/"><img src="https://img.shields.io/badge/ITCH.IO-PLAY%20MY%20GAMES-D824E5?style=for-the-badge&labelColor=081329&logo=itchdotio&logoColor=white" alt="itch.io"></a>
+</p>
 
 <p align="center">
   <b>Designing systems. Building them. Iterating until they feel right.</b>
